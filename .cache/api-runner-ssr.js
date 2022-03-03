@@ -17,7 +17,7 @@ var plugins = [{
     },{
       name: 'gatsby-plugin-manifest',
       plugin: require('/Users/YonLau/Workspace/other/github.io/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"YonLau","short_name":"YonLau","start_url":"/","background_color":"#020c1b","theme_color":"#0a192f","display":"minimal-ui","icon":"src/images/logo.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"7555225bf5aca85fb96f99261fde715e"},
+      options: {"plugins":[],"name":"YonLau","short_name":"YonLau","start_url":"/","background_color":"#020c1b","theme_color":"#0a192f","display":"minimal-ui","icon":"src/images/logo.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"4c92330cfb6ec8dc1fb556592b01964a"},
     },{
       name: 'gatsby-plugin-offline',
       plugin: require('/Users/YonLau/Workspace/other/github.io/node_modules/gatsby-plugin-offline/gatsby-ssr'),
